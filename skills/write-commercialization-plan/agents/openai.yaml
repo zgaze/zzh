@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业化方案 PM"
+  short_description: "把零散背景和项目信息写成大厂商业化策略产品经理完整方案"
+  default_prompt: "Use $write-commercialization-plan to analyze my background and draft a Chinese commercialization strategy PM proposal in the style of 医药 Query 改写."
